@@ -78,11 +78,17 @@ internal FLAG notes addressed to the next agent. Those must never reach a
 published document. Check it actually happened:
 
 ```bash
-pdftotext outputs/consolidated-YYMMDD.pdf - | grep -c 'FLAG'   # expect 0
+# The real invariant: no comment markers survived.
+pdftotext outputs/consolidated-YYMMDD.pdf - | grep -c -- '<!--\|-->'   # expect 0
 pdfinfo outputs/consolidated-YYMMDD.pdf | grep Pages
 ```
 
-The 2026-08-12 build was 28 pages with zero FLAG leakage. A sudden large drop in
+**Do not test for the string `FLAG`.** It looks like the obvious check and it is
+wrong: the answers legitimately use "flagged as speculation" in prose, so it returns
+false positives and trains you to ignore the result. Grep for the comment delimiters,
+which cannot appear in rendered output at all.
+
+The 2026-08-12 build was 28 pages with zero comment leakage. A sudden large drop in
 page count means a directory stopped being picked up — check before assuming the
 notebook simply got shorter.
 

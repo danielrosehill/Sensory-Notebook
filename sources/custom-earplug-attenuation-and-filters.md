@@ -62,10 +62,13 @@ direction: the case for custom moulds is **wearability**, not performance.
   9/15/25 dB filter values are product specifications, not independent measurements, and
   are subject to the same lab-versus-field gap as any NRR — see
   [`hpd-overprotection-and-derating.md`](hpd-overprotection-and-derating.md).
-- **Nothing here is about the specific plugs in the recommendation.** Which filter, if any,
-  Daniel's plugs contain is not recorded. A solid plug and a 15 dB filtered plug are very
-  different objects and the notebook does not currently know which he owns.
-  <!-- FLAG: this is the single most useful unknown in the whole earplug thread. Ask. -->
+- **These are not measurements of the specific plugs in the recommendation.** Visual
+  inspection on 2026-08-12 found **no filter bore**, which points to solid plugs and
+  therefore the **25–30 dB** end of the range — but that is an inference from appearance,
+  not a specification, and no manufacturer documentation has been seen. See
+  [`../recommendations/custom-moulded-earplugs.md`](../recommendations/custom-moulded-earplugs.md).
+  Remember also that NIOSH derates non-foam earplugs by 70%, so whatever the nominal
+  figure, delivered attenuation is materially lower.
 
 ## Provenance
 

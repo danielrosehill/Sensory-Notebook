@@ -794,11 +794,13 @@ notebook cannot responsibly turn that into an assurance, and does not.
 
 ##### What would change this answer
 
-- **Knowing which plugs you actually own.** A *solid* custom plug is roughly 25–30 dB; a
-  *filtered* one is typically 9, 15 or 25 dB. Nothing in the notebook records whether yours
-  are solid or filtered, and that single fact changes every number here.
+- **~~Knowing which plugs you actually own.~~ Partially resolved 2026-08-12.** Visual
+  inspection found **no filter bore**, indicating **solid** plugs — the **25–30 dB** end of
+  the range rather than a filtered 9 or 15 dB. Two caveats that keep this from being
+  settled: it is an inference from appearance rather than a specification, and NIOSH
+  derates non-foam earplugs by **70%**, so delivered attenuation is materially below the
+  nominal figure.
   *sources/custom-earplug-attenuation-and-filters.md*
-  
 - **The siren specification**, if it can be obtained from the Standards Institution of
   Israel, the civil-defence regulations, or the 104 hotline.
 - **Any study of arousal thresholds through hearing protection.** None was found. If one
@@ -811,6 +813,18 @@ the shell material, sets the attenuation curve** — no source found gave a dire
 comparison between the two materials. So "the soft pair" and "the hard pair" are not
 inherently different amounts of protection, which makes the advice to reuse the sleep pair
 less surprising than it first sounded.
+
+**And the original brief says the same thing.** Recorded 2026-08-12 in
+*recommendations/custom-moulded-earplugs.md*:
+the request to the audiologist was for something usable at night *and* through a full
+working day at **roughly the same attenuation**. The two pairs were therefore commissioned
+as **equivalent in attenuation and different in wearing posture**, which is the whole
+explanation for the later advice. There was never a stronger pair to be sold — reusing the
+silicone one was not a compromise, it was the design.
+
+*(That is Daniel's recollection of a conversation from about 2023, and his own phrasing
+rather than a written specification. It corroborates the acoustic argument; it does not
+independently confirm it.)*
 
 ## What is the ideal level of attenuation for studying or working — and does it change if you are more sensory-overloaded than I am?
 
@@ -829,7 +843,7 @@ concentration.
 1. **Is there an ideal attenuation level for focused work, and is it a maximum?** My
    instinct is to assume more blocking is better, but I do not know that. The profile's
    primary trigger is intelligible background speech
-   (*../context/profile.md*), and if the problem is
+   (*context/profile.md*), and if the problem is
    intelligibility rather than volume, then the target might be "drop speech below the
    point where it resolves into words" rather than "make it as quiet as possible". Those
    are different specs and they might want different products.
@@ -1057,7 +1071,7 @@ option here, because there is nothing in your ears.
 - **It fails on volume.** If it is loud enough, a closed door is not enough, and I escalate
   to earplugs — *custom-moulded-earplugs.md*.
 - **It only works where you control the door.** It is useless in an open-plan office, which
-  is the single worst environment on record in *../context/profile.md*,
+  is the single worst environment on record in *context/profile.md*,
   and useless anywhere the sound and you are in the same room.
 - **It is a social act, not just an acoustic one.** You are closing a door on people. In a
   shared home that carries a meaning beyond the decibels, and the cost of that is real even
@@ -1126,6 +1140,33 @@ In roughly this order, during the same desperate search:
 
 The two-material split was the point. A soft plug is what you can lie on; a hard plug is
 what you want when you are upright and moving around.
+
+#### What I actually asked for
+
+Worth recording separately, because the brief explains the result. I described the
+specific problems rather than asking for a product: something to attenuate noise, for
+sleeping, and for the honking. Then one further requirement — that I wanted something I
+could also wear **during the day for extended periods, potentially the whole time I was
+working**, at **roughly the same attenuation**.
+
+So the two pairs were specified from the outset as *equivalent in attenuation, different
+in wearing posture*. That is the missing piece behind the later advice to reuse the sleep
+pair for parenting: they were never meant to be two different strengths.
+
+#### What they physically are
+
+Determined by looking at the plugs on 2026-08-12, not from documentation:
+
+- Soft, lightweight, **skin-toned**, with a full concha shell and a small removal tab.
+- Marked **red on one and blue on the other** — the standard audiology right/left
+  convention.
+- **No filter bore is visible on either.** That points to **solid, unfiltered** plugs,
+  which per *sources/custom-earplug-attenuation-and-filters.md*
+  sits in the **~25–30 dB** region rather than at a filtered 9, 15 or 25 dB value.
+
+The observation is consistent with the brief above: a solid plug is what you get when you
+ask for one level of attenuation for everything, rather than a filter tuned to preserve
+speech or music.
 
 #### What happened
 

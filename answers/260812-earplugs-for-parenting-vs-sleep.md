@@ -136,11 +136,13 @@ notebook cannot responsibly turn that into an assurance, and does not.
 
 ## What would change this answer
 
-- **Knowing which plugs you actually own.** A *solid* custom plug is roughly 25–30 dB; a
-  *filtered* one is typically 9, 15 or 25 dB. Nothing in the notebook records whether yours
-  are solid or filtered, and that single fact changes every number here.
+- **~~Knowing which plugs you actually own.~~ Partially resolved 2026-08-12.** Visual
+  inspection found **no filter bore**, indicating **solid** plugs — the **25–30 dB** end of
+  the range rather than a filtered 9 or 15 dB. Two caveats that keep this from being
+  settled: it is an inference from appearance rather than a specification, and NIOSH
+  derates non-foam earplugs by **70%**, so delivered attenuation is materially below the
+  nominal figure.
   [`sources/custom-earplug-attenuation-and-filters.md`](../sources/custom-earplug-attenuation-and-filters.md)
-  <!-- FLAG: this is the highest-value unknown in the whole earplug thread. Ask. -->
 - **The siren specification**, if it can be obtained from the Standards Institution of
   Israel, the civil-defence regulations, or the 104 hotline.
 - **Any study of arousal thresholds through hearing protection.** None was found. If one
@@ -153,3 +155,15 @@ the shell material, sets the attenuation curve** — no source found gave a dire
 comparison between the two materials. So "the soft pair" and "the hard pair" are not
 inherently different amounts of protection, which makes the advice to reuse the sleep pair
 less surprising than it first sounded.
+
+**And the original brief says the same thing.** Recorded 2026-08-12 in
+[`recommendations/custom-moulded-earplugs.md`](../recommendations/custom-moulded-earplugs.md):
+the request to the audiologist was for something usable at night *and* through a full
+working day at **roughly the same attenuation**. The two pairs were therefore commissioned
+as **equivalent in attenuation and different in wearing posture**, which is the whole
+explanation for the later advice. There was never a stronger pair to be sold — reusing the
+silicone one was not a compromise, it was the design.
+
+*(That is Daniel's recollection of a conversation from about 2023, and his own phrasing
+rather than a written specification. It corroborates the acoustic argument; it does not
+independently confirm it.)*

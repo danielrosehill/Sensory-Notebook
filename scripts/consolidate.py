@@ -88,6 +88,10 @@ def delink(text: str) -> str:
         if target.startswith(("http://", "https://", "mailto:")):
             return m.group(0)
         label = label.strip().strip("`")
+        # Labels are often the link path itself. A reader of the PDF does not need
+        # the relative prefix, which only means something from the linking file.
+        while label.startswith(("../", "./")):
+            label = label.split("/", 1)[1]
         return f"*{label}*"
 
     return MD_LINK_RE.sub(repl, text)

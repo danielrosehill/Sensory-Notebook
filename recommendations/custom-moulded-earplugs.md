@@ -67,6 +67,46 @@ In roughly this order, during the same desperate search:
 The two-material split was the point. A soft plug is what you can lie on; a hard plug is
 what you want when you are upright and moving around.
 
+## What I actually asked for
+
+Worth recording separately, because the brief explains the result. I described the
+specific problems rather than asking for a product: something to attenuate noise, for
+sleeping, and for the honking. Then one further requirement — that I wanted something I
+could also wear **during the day for extended periods, potentially the whole time I was
+working**, at **roughly the same attenuation**.
+
+So the two pairs were specified from the outset as *equivalent in attenuation, different
+in wearing posture*. That is the missing piece behind the later advice to reuse the sleep
+pair for parenting: they were never meant to be two different strengths.
+
+<!--
+FLAG: this is Daniel's recollection of a conversation from roughly 2023, and he says
+explicitly that it is all he can remember. "Roughly the same attenuation" is his phrasing,
+not a specification he read. Do not harden it into a number.
+-->
+
+## What they physically are
+
+Determined by looking at the plugs on 2026-08-12, not from documentation:
+
+- Soft, lightweight, **skin-toned**, with a full concha shell and a small removal tab.
+- Marked **red on one and blue on the other** — the standard audiology right/left
+  convention.
+- **No filter bore is visible on either.** That points to **solid, unfiltered** plugs,
+  which per [`../sources/custom-earplug-attenuation-and-filters.md`](../sources/custom-earplug-attenuation-and-filters.md)
+  sits in the **~25–30 dB** region rather than at a filtered 9, 15 or 25 dB value.
+
+<!--
+FLAG: "no bore visible" is an observation, not a confirmation. A bore could sit on a face
+not inspected, and no manufacturer documentation has been seen. Treat 25–30 dB as an
+inference with moderate confidence, and note that NIOSH derates non-foam earplugs by 70%,
+so delivered attenuation is lower again. Ask the audiologist for the spec if it matters.
+-->
+
+The observation is consistent with the brief above: a solid plug is what you get when you
+ask for one level of attenuation for everything, rather than a filter tuned to preserve
+speech or music.
+
 ## What happened
 
 **They work, and they are one of the most useful things I have ever bought.** These are

@@ -92,9 +92,14 @@ Added 2026-08-12, from the earplug recommendations:
 
 Added 2026-08-12, from those two answers:
 
-- [ ] Are the custom moulds solid or filtered, and if filtered, at what value? Not a
-      research question but the highest-value unknown in the notebook — it changes every
-      number in both attenuation answers.
+- [x] Are the custom moulds solid or filtered, and if filtered, at what value?
+      → Partially resolved 2026-08-12 by visual inspection: **no filter bore visible**, so
+      **solid**, putting them at the 25–30 dB end rather than a filtered 9/15 dB. An
+      inference from appearance, not a specification — the manufacturer figure would still
+      settle it, and NIOSH derating means delivered attenuation is well below nominal.
+      Also recorded: the original brief asked for one attenuation level usable both at
+      night and through a full working day, so the two pairs were commissioned as
+      equivalent in attenuation and different only in wearing posture.
 - [ ] Has anyone measured **auditory arousal thresholds through hearing protection**? None
       found. It is the weakest structural step in the parenting/sleep answer.
 - [ ] Has anyone measured attenuation against **cognitive performance**? None found. Would
