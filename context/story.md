@@ -57,9 +57,9 @@ and the answer alongside it.
 ## The comparison that made it click
 
 <!--
-FLAG: scope.md puts other people's sensory experiences out of scope unless they
-have said they are happy to be written about. This passage is not name-identified,
-but it is still someone else's experience. Confirm before this repo is publicised.
+Resolved 2026-08-12. scope.md puts other people's sensory experiences out of scope
+unless they are happy to be written about; Daniel has confirmed this passage is fine
+to share publicly. It stays non-name-identified. Do not re-flag it.
 -->
 
 I asked other people whether it bothers them, including my wife. What came back was not
