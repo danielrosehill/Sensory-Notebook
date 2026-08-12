@@ -62,3 +62,11 @@ Added 2026-08-12, from the first answer:
       findings conflict. Has anything since 2014 adjudicated?
 - [ ] What is the measured STI at a typical open-plan desk, and what would it take to get
       below the 0.21 threshold where performance decline begins?
+
+Added 2026-08-12, from the custom-earplugs recommendation:
+
+- [ ] Is the right earplug attenuation for a screaming baby the same as for sleep, or do
+      the two want different curves? Includes the Israel-specific constraint: what
+      attenuation still leaves a red-alert siren reliably audible, including asleep.
+      → Logged, deliberately unanswered:
+      [`questions/260812-earplugs-for-parenting-vs-sleep.md`](../questions/260812-earplugs-for-parenting-vs-sleep.md).

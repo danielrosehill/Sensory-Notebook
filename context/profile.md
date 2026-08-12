@@ -46,6 +46,19 @@ _Severity rating, and what makes it better or worse, still to fill._
 Where this sits diagnostically, and the candidate mechanisms:
 [`answers/260812-background-speech-and-focus.md`](../answers/260812-background-speech-and-focus.md).
 
+**Loudness — separate from the above, and not yet characterised.** The primary trigger is
+speech, not volume, and the two should not be run together. But there is at least one
+recorded loudness case: since becoming a father in July 2025, a screaming baby has been
+really challenging. What I use is custom moulded earplugs —
+[`recommendations/custom-moulded-earplugs.md`](../recommendations/custom-moulded-earplugs.md).
+
+<!--
+FLAG: this loudness note is the *only* thing Daniel has said about volume as opposed to
+speech, and it was said in passing while describing the earplugs. Whether loud sound is
+a general sensitivity or that one situation is unknown. Ask before generalising it, and
+do not let it drift into rewriting the primary trigger above.
+-->
+
 ### Visual
 
 _To fill._

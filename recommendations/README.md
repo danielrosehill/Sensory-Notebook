@@ -29,3 +29,9 @@ Then, in the body:
 
 The fourth point is the one that makes this worth publishing. Every product review online
 already covers the first three.
+
+## Index
+
+| Recommendation | Kind | Verdict | Modality |
+| --- | --- | --- | --- |
+| [Custom moulded earplugs, made by an audiologist](custom-moulded-earplugs.md) | product | works | auditory |

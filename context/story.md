@@ -37,6 +37,19 @@ of the overall ADHD picture. That is the open question this notebook started wit
 
 ## What changed, when
 
+**Undated, some time before August 2026** — the audiology appointment where I had custom
+earplugs made. <!-- FLAG: Daniel has not said when this was. Ask, then date it properly
+and move it into sequence. -->
+
+I had gone in for a product and came out with something else as well. The reaction I got
+was that this is something they see all the time and custom moulds are a perfect solution
+for it — and being somewhere where the thing was completely ordinary was, in itself,
+incredibly validating. That is one of the pivotal points in the whole story. Years of
+working around something quietly, and then a room where it is a routine appointment.
+
+The earplugs themselves, and the question they left open, are in
+[`recommendations/custom-moulded-earplugs.md`](../recommendations/custom-moulded-earplugs.md).
+
 **August 2026** — first attempt at actually looking it up rather than living with it.
 See [`questions/260812-background-speech-and-focus.md`](../questions/260812-background-speech-and-focus.md)
 and the answer alongside it.
