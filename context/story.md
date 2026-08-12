@@ -50,10 +50,11 @@ control of my environment, of the place that is meant to be a safe space from th
 the city being invaded by the noise of the city. Not insanity, but extremely stressful, and
 it got me looking for literally any solution under the sun.
 
-**Undated, in response to the above** — the audiology appointment where I had custom
-earplugs made, after trying ANC headphones, ANC earbuds and Loops.
-<!-- FLAG: still no year. Bracketed by the previous-apartment tenancy and the move to the
-current place; ask Daniel for the actual date rather than inferring it. -->
+**Around 2023, in response to the above** — the audiology appointment where I had custom
+earplugs made, after trying Sony over-ear ANC headphones, ANC earbuds and Loops.
+<!-- The year is recalled, not looked up: "I wanna say this is, like, three years ago",
+said August 2026. Treat as ±1. Daniel does not consider the exact date important, so it
+does not need chasing further. -->
 
 The part of this worth recording is not the product. It is that **I had struggled with this
 for many years and it was never a priority.** It never felt worth a hundred dollars. What

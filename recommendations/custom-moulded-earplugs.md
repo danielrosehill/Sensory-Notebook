@@ -1,16 +1,18 @@
 ---
 kind: product
 verdict: works
-since: unknown
+since: 2023-00
 cost: ~USD 100 for both pairs
 modality: [auditory]
 ---
 
 <!--
-FLAG — `since:` is still a placeholder. What is known: the moulds were made during the
-previous Jerusalem apartment, in response to the honking described below, and before the
-move to the current apartment. That brackets it but does not date it. Ask Daniel for the
-year rather than inferring one from the apartment history.
+`since:` is approximate and recalled, not looked up — Daniel's words were "I wanna say
+this is, like, three years ago", said in August 2026, and he does not consider the exact
+date important. It is consistent with the rest of the record: during the previous
+Jerusalem apartment, in response to the honking, and before the move to the current
+place. Treat the year as ±1 and do not build any argument on it. Month is unknown; the
+`-00` is a placeholder to keep the field parseable.
 
 `cost:` is confirmed — ~USD 100 covered the set of two, not each pair.
 -->
@@ -50,8 +52,11 @@ that would help them.
 
 In roughly this order, during the same desperate search:
 
-1. **Over-ear ANC headphones.** <!-- FLAG: verdict not recorded. Ask. -->
-2. **In-ear ANC earbuds.** <!-- FLAG: verdict not recorded. Ask. -->
+1. **Over-ear ANC headphones — Sony**, model not recorded and not considered important.
+   <!-- FLAG: whether they helped is still not recorded. Daniel answered the "which make"
+   question but not the verdict one. Ask before assuming either way; the fact that the
+   customs are what he wears is not evidence about the headphones. -->
+2. **In-ear ANC earbuds.** <!-- FLAG: make and verdict both unrecorded. Ask. -->
 3. **Loop earplugs.** Worked, but superseded on comfort — separate entry:
    [`loop-earplugs.md`](loop-earplugs.md).
 4. **Custom moulded plugs from an audiologist**, taken from impressions of my own ears.

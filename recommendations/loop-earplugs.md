@@ -1,15 +1,19 @@
 ---
 kind: product
 verdict: partial
-since: unknown
+since: 2023-00
 cost: unknown
 modality: [auditory]
 ---
 
 <!--
-FLAG — `since:` and `cost:` are placeholders. Known: bought before the custom moulds
-(Daniel: "I got the Loops, and then I got the customs"), during the honking problem in the
-previous Jerusalem apartment. Which Loop model, and what was paid, are not recorded. Ask.
+`since:` is inherited and approximate. Loop came before the custom moulds (Daniel: "I got
+the Loops, and then I got the customs"), during the same honking problem, and the moulds
+are recalled as roughly 2023. So this is 2023 or earlier, ±1, and the `-00` month is a
+placeholder. Do not treat the two entries' matching years as independent evidence — they
+are the same one recollection.
+
+`cost:` and the Loop model are still unrecorded. Ask.
 -->
 
 # Loop earplugs
