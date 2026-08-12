@@ -35,3 +35,4 @@ already covers the first three.
 | Recommendation | Kind | Verdict | Modality |
 | --- | --- | --- | --- |
 | [Custom moulded earplugs, made by an audiologist](custom-moulded-earplugs.md) | product | works | auditory |
+| [Loop earplugs](loop-earplugs.md) | product | partial | auditory |

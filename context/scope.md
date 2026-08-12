@@ -63,8 +63,16 @@ Added 2026-08-12, from the first answer:
 - [ ] What is the measured STI at a typical open-plan desk, and what would it take to get
       below the 0.21 threshold where performance decline begins?
 
-Added 2026-08-12, from the custom-earplugs recommendation:
+Added 2026-08-12, from the earplug recommendations:
 
+- [ ] Is intermittent, unpredictable noise (honking, drilling) a different stressor from
+      continuous noise at the same level, and is that difference measured? Would speak
+      directly to the second auditory trigger in
+      [`profile.md`](profile.md), which is described in terms of intrusion and loss of
+      environmental control rather than volume.
+- [ ] Does hearing protection that reduces the sound also reduce the loss-of-control
+      feeling, or only the first of those? The recommendation records that the plugs made
+      the honking survivable without restoring what had actually been taken.
 - [ ] Is the right earplug attenuation for a screaming baby the same as for sleep, or do
       the two want different curves? Includes the Israel-specific constraint: what
       attenuation still leaves a red-alert siren reliably audible, including asleep.

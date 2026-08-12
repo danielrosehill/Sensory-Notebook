@@ -37,18 +37,50 @@ of the overall ADHD picture. That is the open question this notebook started wit
 
 ## What changed, when
 
-**Undated, some time before August 2026** — the audiology appointment where I had custom
-earplugs made. <!-- FLAG: Daniel has not said when this was. Ask, then date it properly
-and move it into sequence. -->
+**Ten years in Jerusalem, across several apartments** — and every one of them has been
+noisy in a different way. There is a pattern to how it happens: you view a place, it is
+pretty quiet, you move in, and you find out you viewed it at a quiet time of day. That has
+happened to us recurrently, which is its own small lesson about how little a viewing tells
+you.
 
-I had gone in for a product and came out with something else as well. The reaction I got
-was that this is something they see all the time and custom moulds are a perfect solution
-for it — and being somewhere where the thing was completely ordinary was, in itself,
-incredibly validating. That is one of the pivotal points in the whole story. Years of
-working around something quietly, and then a room where it is a routine appointment.
+**Undated, during the previous apartment** — honking at night. It was audible in the
+bedroom and audible while I was working. What made it different from the background-speech
+problem was that it had nothing to do with concentration: it was the feeling of not having
+control of my environment, of the place that is meant to be a safe space from the noise of
+the city being invaded by the noise of the city. Not insanity, but extremely stressful, and
+it got me looking for literally any solution under the sun.
+
+**Undated, in response to the above** — the audiology appointment where I had custom
+earplugs made, after trying ANC headphones, ANC earbuds and Loops.
+<!-- FLAG: still no year. Bracketed by the previous-apartment tenancy and the move to the
+current place; ask Daniel for the actual date rather than inferring it. -->
+
+The part of this worth recording is not the product. It is that **I had struggled with this
+for many years and it was never a priority.** It never felt worth a hundred dollars. What
+changed was not new information — it was that my daily happiness was at stake. I suspect
+that arithmetic is what keeps a lot of people from buying the thing that would help them,
+and the hundred dollars turns out to be the cheap part; the years of deferring it were the
+expensive part.
+
+I had also gone in for a product and come out with something else as well. The reaction I
+got was that this is something they see all the time and custom moulds are a perfect
+solution for it — and being somewhere where the thing was completely ordinary was, in
+itself, incredibly validating. That is one of the pivotal points in the whole story. Years
+of working around something quietly, and then a room where it is a routine appointment.
+
+Something similar happened from the other direction with Loop earplugs. As they became
+popular, friends I would never have associated with sensory issues started telling me they
+had found them life-changing. The plugs themselves I ended up not wearing much once I had
+the customs — but the discovery that these people were out there, and had been all along,
+was its own thing.
 
 The earplugs themselves, and the question they left open, are in
-[`recommendations/custom-moulded-earplugs.md`](../recommendations/custom-moulded-earplugs.md).
+[`recommendations/custom-moulded-earplugs.md`](../recommendations/custom-moulded-earplugs.md)
+and [`recommendations/loop-earplugs.md`](../recommendations/loop-earplugs.md).
+
+**Recently — the current apartment**, where there is drilling and very loud construction
+work going on. We have not finished unboxing. I am very glad the earplugs are in the
+cabinet.
 
 **August 2026** — first attempt at actually looking it up rather than living with it.
 See [`questions/260812-background-speech-and-focus.md`](../questions/260812-background-speech-and-focus.md)

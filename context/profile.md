@@ -46,18 +46,33 @@ _Severity rating, and what makes it better or worse, still to fill._
 Where this sits diagnostically, and the candidate mechanisms:
 [`answers/260812-background-speech-and-focus.md`](../answers/260812-background-speech-and-focus.md).
 
-**Loudness — separate from the above, and not yet characterised.** The primary trigger is
-speech, not volume, and the two should not be run together. But there is at least one
-recorded loudness case: since becoming a father in July 2025, a screaming baby has been
-really challenging. What I use is custom moulded earplugs —
-[`recommendations/custom-moulded-earplugs.md`](../recommendations/custom-moulded-earplugs.md).
+**Second trigger: intrusive noise at home. This is not the same problem as the one above,
+and the two should not be run together.**
 
-<!--
-FLAG: this loudness note is the *only* thing Daniel has said about volume as opposed to
-speech, and it was said in passing while describing the earplugs. Whether loud sound is
-a general sensitivity or that one situation is unknown. Ask before generalising it, and
-do not let it drift into rewriting the primary trigger above.
--->
+- **It is not state-dependent and it is not about concentration.** The speech problem only
+  exists when I am trying to focus. This one does not switch off when I stop working.
+- **The defining feeling is loss of control over my environment.** Home is supposed to be
+  the safe space from the noise of the city, and when the noise gets in, what is gone is
+  not quiet — it is the sense that the space is mine. That framing matters more than the
+  decibels.
+- **Recorded instances**, both from Jerusalem apartments — see
+  [`story.md`](story.md):
+  - **Honking at night**, in the previous apartment, audible in the bedroom and while
+    working. Extremely stressful; got to the point where my daily happiness was at stake.
+  - **Drilling and loud construction work**, in the current apartment, ongoing.
+- **Separately: a screaming baby.** Since becoming a father in July 2025 this has been
+  really challenging. Recorded here because it is real, but it is not obviously the same
+  phenomenon as the city-noise instances and is not being filed as one.
+  <!-- FLAG: whether the baby case belongs with the two above, or is its own thing, has
+  not been established. Ask before merging them. -->
+
+_Severity rating, and the relationship between this trigger and the speech trigger, still
+to establish. Note that neither has been described in terms of volume as such — one is
+about intelligibility, the other about intrusion — so "loudness sensitivity" is not
+currently a supported description of either._
+
+What I use for this: [`recommendations/custom-moulded-earplugs.md`](../recommendations/custom-moulded-earplugs.md),
+and [`recommendations/loop-earplugs.md`](../recommendations/loop-earplugs.md).
 
 ### Visual
 
