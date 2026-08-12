@@ -103,8 +103,10 @@ me very irritable.
 The contrast is what completed the picture. On a day where I get a good stretch of time to
 focus at the computer and work through my tasks — quiet, peaceful — I make a lot of
 progress, and the effect on my mood is not just satisfaction at having done the work. It
-grounds me. A couple of days like that calms me down; a few days of the other kind pushes
-the other way, and does not stop when the interruptions do.
+grounds me. A couple of days like that calms me down and the calm carries; a few days of the
+other kind pushes the other way and that carries too. Neither one stops when the days that
+caused it stop, which is why a bad period is not something you can simply wait out at the
+end of it.
 
 **The current apartment**, where there is drilling and very loud construction work going
 on. We have not finished unboxing. I am very glad the earplugs are in the cabinet.

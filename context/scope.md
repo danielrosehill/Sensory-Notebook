@@ -137,10 +137,15 @@ checked against it either way:
       large and separate body of work. Distinct from the question of whether the sensitivity
       itself is ADHD — that one is
       [`answers/260812-background-speech-and-focus.md`](../answers/260812-background-speech-and-focus.md).
-- [ ] **Carryover: do environmental-stress effects outlast the exposure, and is the effect
-      asymmetric?** The profile records persistence for bad stretches and does not claim it
-      for good ones. Leads: noise-annoyance research, which measures effects that persist
-      between exposures, and recovery/restoration research.
+- [ ] **Carryover: do environmental-stress effects outlast the exposure — in both
+      directions?** The profile records persistence for bad stretches *and* for good ones,
+      confirmed 2026-08-12. So the interesting question is not whether stress carries, which
+      is well studied, but whether **recovery** carries the same way: is a restorative period
+      a durable credit against future load, or does it only hold while it lasts? Leads:
+      noise-annoyance research, which already measures effects persisting between exposures,
+      and the recovery/restoration literature, which is the less obvious half and the one
+      that would actually speak to the stabilising direction. Note the profile is explicit
+      that symmetric in direction is not a claim of symmetric in magnitude.
 - [ ] **Thermal discomfort and cognitive performance.** There is a substantial
       office-environment literature on temperature and productivity that this notebook has
       not touched at all, and it is the closest existing analogue to the acoustic work

@@ -85,25 +85,36 @@ than one continuum.
 ### Days accumulate in both directions
 
 This is the part I did not expect, and it is why the load is a running total rather than a
-daily reset:
+daily reset. There is a **stabilising and a destabilising effect**, and both of them
+outlast the days that produced them:
 
 - **A couple of days of good focus grounds me.** Quiet, peaceful, a good stretch of time at
   the computer getting through tasks — it puts me in a better mood and calms me down, beyond
-  just the satisfaction of having done the work.
-- **A few days of stress and interruption does the opposite, and it persists beyond the
-  initial period.** The bad mood outlasts the thing that caused it.
+  just the satisfaction of having done the work. And it carries: the calm is still there
+  after the good stretch has ended.
+- **A few days of stress and interruption does the opposite, and that carries too.** The bad
+  mood outlasts the thing that caused it.
+
+So the effect in both directions persists beyond the initial period. That is what makes it a
+running total rather than a mood that tracks the day I am currently having.
 
 I have found daily sensory load, happiness, being in a state of flow, and mental well-being
 overall to be very interconnected for me.
 
 <!--
-FLAG: asymmetry not established. Daniel stated persistence explicitly for the negative
-direction ("they can persist beyond the initial period") and did not state it for the
-positive direction. Do not write the two up as symmetric — the grounding effect may or may
-not outlast its cause, and it has not been said either way.
+Resolved 2026-08-12, same day. The dictation's persistence clause — "they can persist for,
+like, beyond the initial period" — was ambiguous about whether it attached to the
+destabilising case only or to the stabilising/destabilising pair. Claude first recorded it
+narrowly, as the negative direction only, and flagged the asymmetry. Daniel confirmed in
+follow-up the same day that he meant both. Recorded as symmetric on that confirmation, not
+on the original wording. Do not re-flag.
+
+FLAG: symmetric in direction is not the same as symmetric in magnitude or duration. Nothing
+has been said about whether a good stretch and a bad stretch of equal length carry equally
+far, and it should not be assumed that they do.
 
 FLAG: no durations recorded beyond "a couple of days" and "a few days", and no account of
-what ends a bad stretch other than the stretch ending.
+what ends a stretch in either direction other than the stretch ending.
 -->
 
 The sustained instance this came out of is in [`story.md`](story.md) — the months of moving
