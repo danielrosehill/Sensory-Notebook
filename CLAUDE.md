@@ -60,6 +60,15 @@ If the `research-space` plugin is installed, `/research-space:research-init` loa
 state. It is not installed by default here (skills live in the OpenViking substrate), so
 falling back to reading `questions/`, `answers/` and `outputs/INDEX.md` directly is fine.
 
+## Skills in this repo
+
+Two, in `.claude/skills/`. They are checked in and specific to this notebook.
+
+| Skill | Use it when |
+| --- | --- |
+| `capture-note` | Daniel dictates experience, a verdict, a question or background rather than asking for a task. Routes it to the right files without inventing the gaps. |
+| `consolidate-pdf` | Asked to consolidate, export, cut a release, or "make the PDF". |
+
 ## Workflow
 
 ### Capturing a question and answer
@@ -100,9 +109,15 @@ a plausible-sounding generality.
 
 ### Periodic consolidation
 
-Selected Q&A pairs get concatenated into `outputs/consolidated-YYMMDD.md`, then handed to
-the Typst toolchain for a PDF. Keep `outputs/INDEX.md` current. Consolidated exports may
-mix research answers and recommendations, but must keep them visually distinct sections.
+Built, not hand-assembled. `scripts/build-pdf.sh` runs
+`scripts/consolidate.py` → pandoc → Typst and produces both
+`outputs/consolidated-YYMMDD.md` and the PDF alongside it. The `consolidate-pdf` skill
+carries the toolchain gotchas; read it before touching `templates/notebook.typ`.
+
+Keep `outputs/INDEX.md` current. Exports mix research answers and recommendations but
+keep them as visually distinct parts, each under a banner stating its provenance — that
+banner is a blockquote, and the Typst template styles blockquotes to make it visible, so
+the two files have to stay in agreement.
 
 ## Conventions
 

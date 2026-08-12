@@ -73,13 +73,35 @@ Added 2026-08-12, from the earplug recommendations:
 - [ ] Does hearing protection that reduces the sound also reduce the loss-of-control
       feeling, or only the first of those? The recommendation records that the plugs made
       the honking survivable without restoring what had actually been taken.
-- [ ] Is the right earplug attenuation for a screaming baby the same as for sleep, or do
+- [x] Is the right earplug attenuation for a screaming baby the same as for sleep, or do
       the two want different curves? Includes the Israel-specific constraint: what
       attenuation still leaves a red-alert siren reliably audible, including asleep.
-      → Logged, deliberately unanswered:
-      [`questions/260812-earplugs-for-parenting-vs-sleep.md`](../questions/260812-earplugs-for-parenting-vs-sleep.md).
-- [ ] What is the ideal attenuation for studying or working, does it scale with severity,
+      → Answered 2026-08-12:
+      [`answers/260812-earplugs-for-parenting-vs-sleep.md`](../answers/260812-earplugs-for-parenting-vs-sleep.md).
+      Hearing protection preserves signal-to-noise, so it does not selectively remove the
+      thing you wanted to hear; sleep is the harder threshold of the two, so validating for
+      sleep errs safe. **The siren limb is unanswerable numerically** — the specification is
+      not public.
+- [x] What is the ideal attenuation for studying or working, does it scale with severity,
       and is there a point where blocking too much becomes its own problem? The companion
       to the above: that one is about safety ceilings, this one about the target.
-      → Logged, deliberately unanswered:
-      [`questions/260812-ideal-attenuation-for-focused-work.md`](../questions/260812-ideal-attenuation-for-focused-work.md).
+      → Answered 2026-08-12, `confidence: low`:
+      [`answers/260812-ideal-attenuation-for-focused-work.md`](../answers/260812-ideal-attenuation-for-focused-work.md).
+      No published figure exists. The predictive variable is intelligibility, not level —
+      which makes an earplug an indirect instrument for the speech trigger.
+
+Added 2026-08-12, from those two answers:
+
+- [ ] Are the custom moulds solid or filtered, and if filtered, at what value? Not a
+      research question but the highest-value unknown in the notebook — it changes every
+      number in both attenuation answers.
+- [ ] Has anyone measured **auditory arousal thresholds through hearing protection**? None
+      found. It is the weakest structural step in the parenting/sleep answer.
+- [ ] Has anyone measured attenuation against **cognitive performance**? None found. Would
+      answer the focused-work question as originally posed.
+- [ ] Does the right acoustic target differ by **severity of sensory over-responsivity**?
+      Unstudied rather than contested — every study located used unselected adults.
+- [ ] The Israeli siren specification, via the Standards Institution of Israel, the civil
+      defence regulations, or Home Front Command's 104 line. Note `.gov.il` targets need an
+      Israeli egress. See
+      [`sources/israeli-siren-level-not-published.md`](../sources/israeli-siren-level-not-published.md).

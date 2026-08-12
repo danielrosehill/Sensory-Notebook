@@ -1,6 +1,6 @@
 ---
 asked: 2026-08-12
-status: deferred
+status: answered
 tags: [auditory, hearing-protection, products, parenting, safety, israel]
 ---
 
@@ -37,11 +37,9 @@ But I do not want to assume it is correct just because it was generous. So:
 
 ## Status
 
-Deliberately unanswered for now. It is logged so that the assumption is visible rather
-than buried inside the recommendation, and so that nobody — me included — reads
-"the audiologist said so" as if it settled points 1 and 3.
+**Answered 2026-08-12** — [`answers/260812-earplugs-for-parenting-vs-sleep.md`](../answers/260812-earplugs-for-parenting-vs-sleep.md).
 
-Answering it properly means real numbers: attenuation curves for moulded silicone versus
-acrylic plugs, published sound levels for infant crying and for the Israeli Home Front
-Command siren, and something about audibility of an alarm signal through hearing
-protection. Those go in `sources/` before anything goes in `answers/`.
+Points 1 and 2 are answered: the advice holds, and sleep is the harder case of the two, so
+reusing the sleep pair errs in the safe direction. **Point 3 is not answered numerically** —
+the Israeli siren specification is not publicly published, and the answer says so instead
+of substituting a plausible figure.

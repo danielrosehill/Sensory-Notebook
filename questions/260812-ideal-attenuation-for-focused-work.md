@@ -1,6 +1,6 @@
 ---
 asked: 2026-08-12
-status: deferred
+status: answered
 tags: [auditory, hearing-protection, products, attention, workplace]
 ---
 
@@ -39,9 +39,10 @@ wearability and no data at all about levels.
 
 ## Status
 
-Deliberately unanswered. Answering it means real numbers: attenuation curves rather than
-single-figure ratings, something on speech intelligibility as a function of level (the
-Speech Transmission Index work already flagged in
-[`../context/scope.md`](../context/scope.md) is the obvious link), and whatever exists on
-whether hearing protection helps or hurts cognitive performance. Those go in `sources/`
-before anything goes in `answers/`.
+**Answered 2026-08-12** — [`answers/260812-ideal-attenuation-for-focused-work.md`](../answers/260812-ideal-attenuation-for-focused-work.md),
+with `confidence: low`, because the main finding is that the number does not exist.
+
+Limb 1 has no published figure and the question turns out to be aimed slightly wrong — the
+predictive variable is intelligibility, not level, and that is a room property rather than
+an earplug property. Limb 2 is **unstudied**, not disputed. Limb 3 has three real effects
+but no threshold.
