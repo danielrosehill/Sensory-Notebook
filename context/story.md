@@ -85,9 +85,29 @@ The earplugs themselves, and the question they left open, are in
 [`recommendations/custom-moulded-earplugs.md`](../recommendations/custom-moulded-earplugs.md)
 and [`recommendations/loop-earplugs.md`](../recommendations/loop-earplugs.md).
 
-**Recently — the current apartment**, where there is drilling and very loud construction
-work going on. We have not finished unboxing. I am very glad the earplugs are in the
-cabinet.
+**The months up to August 2026 — moving house.** We were renting; the tenancy ended, there
+was a leak the landlord did not fix, and we had to find a new place to live. It was a very
+unusual period. My daily routine was upended and replaced by a very variable daily pattern
+with lots of interruptions, sensory impositions, boxing and unboxing.
+
+<!-- The period is Daniel's "the last few months", said 2026-08-12, so it runs roughly
+spring–summer 2026. Derived from the date of the dictation, not stated. Not pinned to
+months, and it does not need chasing. -->
+
+What I worked out about myself fast, in that period, is the thing now written up as the
+load model in [`profile.md`](profile.md). It made the cumulative effect legible in a way
+that ordinary weeks do not, because it went on long enough and there was no quiet stretch
+in the middle of it to reset against. Cumulatively it put me in a really bad mood and made
+me very irritable.
+
+The contrast is what completed the picture. On a day where I get a good stretch of time to
+focus at the computer and work through my tasks — quiet, peaceful — I make a lot of
+progress, and the effect on my mood is not just satisfaction at having done the work. It
+grounds me. A couple of days like that calms me down; a few days of the other kind pushes
+the other way, and does not stop when the interruptions do.
+
+**The current apartment**, where there is drilling and very loud construction work going
+on. We have not finished unboxing. I am very glad the earplugs are in the cabinet.
 
 **August 2026** — first attempt at actually looking it up rather than living with it.
 See [`questions/260812-background-speech-and-focus.md`](../questions/260812-background-speech-and-focus.md)

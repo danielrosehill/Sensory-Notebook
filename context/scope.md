@@ -17,11 +17,16 @@ processing, and what has actually worked in practice.
 - Products and equipment: hearing protection, lighting, textiles, workspace design — including
   the measurable specs (attenuation curves, flicker, CRI) rather than marketing claims.
 - Accommodation in practice: work, travel, home, family life.
+- Cumulative load: whether sensory demand pools across modalities into one budget, what
+  overflow looks like, and its downstream effects on mood, irritability, flow and
+  well-being. Added 2026-08-12 — see the load model in [`profile.md`](profile.md).
 
 ## Out of scope
 
 - Diagnosis, mine or anyone else's.
-- Anything that reads as treatment advice for a reader.
+- Anything that reads as treatment advice for a reader. This now includes the mood and
+  well-being material: describing how sensory load appears to affect mood is in scope,
+  telling a reader what to do about their own mood is not.
 - Other people's sensory experiences unless they have said they're happy to be written about.
 
 ## Modalities to track
@@ -110,3 +115,38 @@ Added 2026-08-12, from those two answers:
       defence regulations, or Home Front Command's 104 line. Note `.gov.il` targets need an
       Israeli egress. See
       [`sources/israeli-siren-level-not-published.md`](../sources/israeli-siren-level-not-published.md).
+
+Added 2026-08-12, from the sensory-load dictation. None of these has been asked yet — they
+are leads, not open questions with work started on them. All of them bear on the load model
+in [`profile.md`](profile.md), which is currently pure personal description with nothing
+checked against it either way:
+
+- [ ] **Is "sensory load" a measured construct anywhere, or a lay metaphor?** A finite
+      cross-modal capacity that fills and spills over. Adjacent framings to check before
+      concluding either way: allostatic load, cognitive load theory, ego depletion and its
+      replication problems, spoon theory (patient-community origin, no formal standing), and
+      the sensory-overload literature in autism. Expect the honest answer to be that the
+      metaphor is widespread and the construct is not measured as stated — but check, rather
+      than assuming, because an empty search result looks the same as a real absence.
+- [ ] **Does load actually pool across modalities?** The testable version: does noise
+      exposure measurably lower the same person's tolerance for thermal or tactile
+      discomfort later the same day? This is the load model's central claim and the one most
+      likely to be wrong.
+- [ ] **Is irritability or anger an established endpoint of sensory overload in adults?**
+      And how does it relate to the ADHD emotional-dysregulation literature, which is a
+      large and separate body of work. Distinct from the question of whether the sensitivity
+      itself is ADHD — that one is
+      [`answers/260812-background-speech-and-focus.md`](../answers/260812-background-speech-and-focus.md).
+- [ ] **Carryover: do environmental-stress effects outlast the exposure, and is the effect
+      asymmetric?** The profile records persistence for bad stretches and does not claim it
+      for good ones. Leads: noise-annoyance research, which measures effects that persist
+      between exposures, and recovery/restoration research.
+- [ ] **Thermal discomfort and cognitive performance.** There is a substantial
+      office-environment literature on temperature and productivity that this notebook has
+      not touched at all, and it is the closest existing analogue to the acoustic work
+      already logged in `sources/`.
+- [ ] **Olfactory distraction and concentration — does odour valence predict disruption?**
+      The profile records cooking as neutral and burning as disruptive. That would be the
+      olfactory parallel to intelligibility-rather-than-level on the auditory side, which is
+      a strong enough parallel to be suspicious of. Also worth separating: unpleasant smell
+      versus smell that signals something is wrong.

@@ -20,9 +20,100 @@ I have ADHD. Everything below is described against that background rather than a
 separate condition, and where the distinction matters the notebook tries to say which
 is which rather than assume.
 
+## Sensory load — the frame the per-modality sections sit inside
+
+<!--
+Dictated 2026-08-12. This is Daniel's own model of how his sensory world works. It is a
+description of experience, not a mechanism claim, and it must not be written up as one
+anywhere in the notebook. Whether a cross-modal "sensory load" of this kind is a measured
+construct in any literature is an open research question — see the open list in
+[`scope.md`](scope.md).
+-->
+
+The concept that resonates most with me is **sensory load**. The analogy people reach for
+is a water bottle: you have a finite capacity, and if you overfill it, it spills over. That
+is my sensory world.
+
+Two things follow from that, and they are the reason it is worth writing down rather than
+leaving as a nice image.
+
+**The load is cumulative, and it pools.** It is not that each sensitivity has its own
+separate budget. A day is not bad because of one bad noise. It is bad because a lot of
+moderate impositions arrived across the same day, from different senses, and together they
+filled the bottle.
+
+**But the modalities are not interchangeable.** Each has a different **stress imprint**, and
+a different **valence** in terms of how it interrupts flow and focus. Two inputs that feel
+equally unpleasant do not necessarily do equal damage to concentration, and two that damage
+concentration equally do not necessarily feel equally bad. So the per-modality sections
+below are recording two things about each trigger, not one.
+
+### What fills the bottle
+
+Examples as I actually experience them. This is a list, not a ranking — the only ordering
+I have actually asserted is the one inside the olfactory pair:
+
+- **Background conversation.** My read is that this one is a very pure ADHD filtering
+  distraction rather than a sensory-sensitivity thing.
+  <!-- FLAG: Daniel's own attribution, dictated 2026-08-12, not a finding. The mechanism is
+  treated as open in
+  [`answers/260812-background-speech-and-focus.md`](../answers/260812-background-speech-and-focus.md),
+  which does not settle between filtering and sensory accounts. Do not let this line be
+  cited as though the question were closed. -->
+- **A yelping baby.** Recorded separately under Auditory below.
+- **A room that is uncomfortably hot.**
+- **Clothing that is uncomfortably tight-fitting.**
+- **Smell.** Somebody cooking food is somewhat neutral. Burning food, wafting into the
+  office, is a higher level of sensory distraction.
+
+### What happens when it overflows
+
+Cumulatively, it puts me in a really bad mood. It makes me very irritable — and anger is
+the tipping-over event, the point at which the bottle actually spills rather than just
+being full.
+
+<!--
+FLAG: the dictation here was "and I guess anger is kind of a water tipping event". Read as
+anger being the overflow point of the bottle metaphor, continuing the analogy. That reading
+is Claude's, not Daniel's words. Confirm before building on it.
+
+FLAG: irritability-as-fill-state and anger-as-overflow is a clean two-stage picture and may
+be cleaner than the experience. Not established that there are two distinct states rather
+than one continuum.
+-->
+
+### Days accumulate in both directions
+
+This is the part I did not expect, and it is why the load is a running total rather than a
+daily reset:
+
+- **A couple of days of good focus grounds me.** Quiet, peaceful, a good stretch of time at
+  the computer getting through tasks — it puts me in a better mood and calms me down, beyond
+  just the satisfaction of having done the work.
+- **A few days of stress and interruption does the opposite, and it persists beyond the
+  initial period.** The bad mood outlasts the thing that caused it.
+
+I have found daily sensory load, happiness, being in a state of flow, and mental well-being
+overall to be very interconnected for me.
+
+<!--
+FLAG: asymmetry not established. Daniel stated persistence explicitly for the negative
+direction ("they can persist beyond the initial period") and did not state it for the
+positive direction. Do not write the two up as symmetric — the grounding effect may or may
+not outlast its cause, and it has not been said either way.
+
+FLAG: no durations recorded beyond "a couple of days" and "a few days", and no account of
+what ends a bad stretch other than the stretch ending.
+-->
+
+The sustained instance this came out of is in [`story.md`](story.md) — the months of moving
+house up to August 2026.
+
 ## Per modality
 
 For each: what the trigger is, how it presents, how severe, what makes it worse or better.
+Read each against the load model above: an entry describes both what a trigger feels like
+and what it does to focus, because those are not the same axis.
 
 ### Auditory
 
@@ -83,7 +174,12 @@ and the two should not be run together.**
   really challenging. Recorded here because it is real, but it is not obviously the same
   phenomenon as the city-noise instances and is not being filed as one.
   <!-- FLAG: whether the baby case belongs with the two above, or is its own thing, has
-  not been established. Ask before merging them. -->
+  not been established. Ask before merging them.
+
+  Updated 2026-08-12: there is now a third possibility. Daniel listed "a yelping baby"
+  among the examples of what fills the bottle, under Sensory load above, alongside heat,
+  tight clothing and smell — i.e. as a load contributor rather than as an instance of
+  either auditory trigger. That is a third option, not a resolution. Still ask. -->
 
 _Severity rating, and the relationship between this trigger and the speech trigger, still
 to establish. Note that neither has been described in terms of volume as such — one is
@@ -99,11 +195,46 @@ _To fill._
 
 ### Tactile
 
-_To fill._
+Both of these arrived 2026-08-12 as examples of what fills the bottle, rather than as
+complaints in their own right. They are listed here because the load model says an
+imposition does not have to be severe to count.
+
+- **Clothing that is uncomfortably tight-fitting.**
+- **A room that is uncomfortably hot.** Filed here provisionally — thermal discomfort is
+  somatosensory rather than tactile in the strict sense, and it may deserve its own heading.
+
+<!--
+FLAG: for both — severity, threshold, how often, whether they are worse when concentrating
+the way the speech trigger is, and what if anything Daniel does about them are all
+unrecorded. Ask; do not infer from the auditory entries.
+
+FLAG: not established whether these are triggers of the same kind as the auditory ones, or
+ordinary discomfort that happens to consume capacity. The load model makes the second
+possible without making it true.
+-->
+
+_No intervention recorded for either. Nothing in `recommendations/` addresses them._
 
 ### Olfactory / gustatory
 
-_To fill._
+**Olfactory.** The only modality where a gradient inside the sense itself has been
+recorded, which makes it worth keeping:
+
+- **Somebody cooking food — somewhat neutral.** Present, registers, does not do much.
+- **Burning food, wafting into the office — a higher level of sensory distraction.**
+
+So the variable is not the presence of an odour. It is something about the odour itself,
+in the same way that the auditory trigger turns on intelligibility rather than level.
+That parallel is an observation, not a finding, and whether odour valence actually predicts
+disruption is on the open list in [`scope.md`](scope.md).
+
+<!--
+FLAG: severity, and whether this is state-dependent the way the speech trigger is —
+unrecorded. "Burning food" may be doing work here as a signal of something wrong rather
+than as an unpleasant smell; not established, and Daniel did not say which.
+-->
+
+**Gustatory.** _Nothing recorded._
 
 ### Vestibular / proprioceptive
 
@@ -118,8 +249,14 @@ _To fill._
 Which sensitivities compound which others, and under what conditions (fatigue, hunger,
 stress, medication timing, time of day).
 
-_To fill._ Specifically unrecorded so far: whether the auditory effect above changes
-with stimulant medication, time of day, or tiredness.
+**The general answer is the load model at the top of this file**: they compound by pooling
+into one finite capacity, so the compounding is not pairwise between specific sensitivities
+but cumulative across all of them within a day, and across days.
+
+What that leaves unrecorded is everything specific. Which pairs are worse together than the
+sum of their parts; whether being already loaded lowers the threshold on a particular
+trigger or just shortens the fuse generally; whether the auditory effect changes with
+stimulant medication, time of day, or tiredness. None of that has been established.
 
 ## Environments
 
