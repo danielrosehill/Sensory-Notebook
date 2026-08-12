@@ -19,6 +19,37 @@ Keeping the two separate is the whole point. A reader should never be unsure whe
 claim comes from a study or from Daniel's kitchen. Never launder personal experience into
 something that reads like evidence, and never flatten evidence into anecdote.
 
+## Why the detail keeps arriving, and what to do with it
+
+Standing instruction from Daniel, 2026-08-12. Treat everything below as already decided;
+do not re-ask it per item.
+
+Daniel will volunteer a lot of small, individually unremarkable detail — which brand, what
+the room was like, what he tried first, what it felt like at the time. **That is deliberate
+and it is the method, not padding.** The objective is a bank of personal experience held in
+the repository, dense enough and cohesive enough that later answers can be drawn from it
+rather than from a cold start. He is confident he is very far from unique in this, and the
+point of accumulating it is that his own experience can inform the research, and the two
+together can produce something validated and genuinely useful for people in the same boat
+who have not found solutions yet.
+
+What this means in practice:
+
+- **Record the small things.** If a detail seems too minor to file, that is not a reason to
+  drop it. Individually insignificant detail is the raw material here. Put it in the
+  relevant `recommendations/`, `context/` or `questions/` file rather than only mentioning
+  it in a reply.
+- **Assume it is intended for the repository, and assume it is public.** He would not be
+  sharing something he did not want recorded. Do not ask "is this okay to publish?" for
+  each item — the answer is yes by default. Override that only where there is a compelling
+  and specific reason, in which case say what it is rather than asking a general question.
+- **The existing rules still apply and are not loosened by this.** Third parties still are
+  not named without their own say-so, clinical material is still summarised rather than
+  pasted, and personal experience is still labelled as experience rather than dressed up as
+  evidence.
+- **The gap between "he told me" and "it is written down" is where this fails.** A detail
+  mentioned in conversation and not filed is lost, because the repository is the memory.
+
 ## Startup
 
 Read `context/profile.md` and `context/scope.md` before answering anything. The profile
@@ -107,7 +138,9 @@ confidence: high | medium | low
   citation — but must not be dressed up as findings.
 - **This is a public repo.** Write for a stranger who arrives via search. Assume no shared
   context. That also means: no third parties named without their say-so, and no clinical
-  records pasted in verbatim — summarise instead.
+  records pasted in verbatim — summarise instead. What Daniel volunteers about himself is
+  public by default and does not need clearing item by item — see
+  [Why the detail keeps arriving](#why-the-detail-keeps-arriving-and-what-to-do-with-it).
 - **Not medical advice, and say so.** The README carries the disclaimer; answers should
   not quietly drift into prescribing. Describing what a treatment does is fine; telling a
   reader to take it is not.

@@ -38,10 +38,29 @@ For each: what the trigger is, how it presents, how severe, what makes it worse 
 - I cannot tune it out. It is not that I notice it and then let it go; the filtering
   step other people appear to have does not happen for me.
 - Open-plan offices are inherently very challenging for this reason.
+- **Other people's television, while I am studying or working nearby.** The
+  longest-running instance of this — it was a real problem growing up and it is still a
+  problem today. TV audio is speech, and it arrives while I am trying to focus, so it fits
+  the pattern above. But I escalate to earplugs specifically when it is *loud enough*,
+  which the pattern above says should not be the deciding variable.
+  <!-- FLAG: that tension between intelligibility and volume is unresolved and is
+  Daniel's own account, not an inconsistency to be tidied away. Leave both halves in
+  until something actually settles it. -->
 - My hearing itself is normal. I have had hearing testing done and it came back
   completely normal — see [`story.md`](story.md).
 
-_Severity rating, and what makes it better or worse, still to fill._
+_Severity rating still to fill._
+
+**What I actually do about it, in escalation order.** This ladder is the practical core of
+the notebook, and each rung has its own entry:
+
+1. **Close the door** — [`recommendations/closing-doors.md`](../recommendations/closing-doors.md).
+   Free, first resort, works where I control the door.
+2. **Earplugs** — [`recommendations/custom-moulded-earplugs.md`](../recommendations/custom-moulded-earplugs.md).
+   The general go-to. Custom moulds in preference to
+   [Loop](../recommendations/loop-earplugs.md) or anything off the shelf, on comfort.
+3. **Earmuffs over the earplugs** — [`recommendations/earmuffs.md`](../recommendations/earmuffs.md).
+   Tried, not adopted, less comfortable.
 
 Where this sits diagnostically, and the candidate mechanisms:
 [`answers/260812-background-speech-and-focus.md`](../answers/260812-background-speech-and-focus.md).

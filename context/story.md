@@ -21,6 +21,12 @@ talking near me, someone taking a phone call in the same room. Open-plan offices
 inherently very challenging for me, and for years that was just a fact about me with no
 explanation attached.
 
+The earliest version of it I can point to is other people's television while I was trying
+to study. That was a real problem growing up, and it is not a childhood memory — it still
+happens, and I still deal with it the same way, by closing doors and then reaching for
+earplugs if it is loud enough. Whatever this is, it has been the same shape for a very
+long time.
+
 What made it hard to place is that it is not a general intolerance of sound. In the
 same room, with the same people, at the same volume, if I am relaxing rather than
 working, it does not bother me at all. That asymmetry is the whole shape of the thing,

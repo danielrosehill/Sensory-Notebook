@@ -78,3 +78,8 @@ Added 2026-08-12, from the earplug recommendations:
       attenuation still leaves a red-alert siren reliably audible, including asleep.
       → Logged, deliberately unanswered:
       [`questions/260812-earplugs-for-parenting-vs-sleep.md`](../questions/260812-earplugs-for-parenting-vs-sleep.md).
+- [ ] What is the ideal attenuation for studying or working, does it scale with severity,
+      and is there a point where blocking too much becomes its own problem? The companion
+      to the above: that one is about safety ceilings, this one about the target.
+      → Logged, deliberately unanswered:
+      [`questions/260812-ideal-attenuation-for-focused-work.md`](../questions/260812-ideal-attenuation-for-focused-work.md).

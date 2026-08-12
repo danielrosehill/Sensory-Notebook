@@ -34,5 +34,26 @@ already covers the first three.
 
 | Recommendation | Kind | Verdict | Modality |
 | --- | --- | --- | --- |
+| [Closing doors](closing-doors.md) | technique | works | auditory |
 | [Custom moulded earplugs, made by an audiologist](custom-moulded-earplugs.md) | product | works | auditory |
 | [Loop earplugs](loop-earplugs.md) | product | partial | auditory |
+| [Earmuffs, worn over earplugs](earmuffs.md) | product | partial | auditory |
+
+Listed in the order they get reached for, which is also cheapest first.
+
+## What the entries have in common so far
+
+Drawn from the verdicts above rather than from any literature, and worth stating because it
+was not the expected answer:
+
+**Every one of these was decided on comfort, not on how much sound it blocked.** Generic
+earplugs lost because they were unwearable. Loop lost to the custom moulds on comfort.
+Earmuffs lost on comfort. The custom moulds won by being inert enough to forget about. Not
+one of these verdicts involved comparing attenuation figures, and none of the entries makes
+a performance claim.
+
+The practical form of that: an intervention you will actually use beats a better one you
+will not, and hearing protection can become its own sensory problem — which makes "does it
+stop bothering me after five minutes" the specification that matters. What the *right*
+level of attenuation would even be is an open question, not a settled one:
+[`questions/260812-ideal-attenuation-for-focused-work.md`](../questions/260812-ideal-attenuation-for-focused-work.md).
