@@ -1,30 +1,67 @@
 # The story
 
 <!--
-STUB — to be dictated by Daniel.
+Dictated by Daniel. Claude structures it; Claude does not write it on Daniel's
+behalf.
 
-The narrative half of the notebook: not what sensory processing is, but how this
-particular version of it was noticed, misread, and eventually understood.
+This is the narrative half of the notebook: not what sensory processing is, but
+how this particular version of it was noticed, misread, and eventually understood.
+It is the part a reader arriving via search is most likely to find useful, because
+no paper contains it.
 
-This is the part a reader arriving from search is most likely to find useful, because it's
-the part no paper contains. It is also the part Claude must not write on Daniel's behalf.
-Dictate it; Claude structures it.
-
-Public repo — summarise clinical material rather than pasting it, and don't name other
-people without their say-so.
+Public repo — clinical material is summarised rather than pasted, and other people
+are not named without say-so.
 -->
 
 ## What it felt like before there was a name for it
 
-_To fill._
+The thing I actually noticed was narrow and specific: when I am trying to focus on
+something, background conversation destroys it. Not noise — conversation. People
+talking near me, someone taking a phone call in the same room. Open-plan offices are
+inherently very challenging for me, and for years that was just a fact about me with no
+explanation attached.
+
+What made it hard to place is that it is not a general intolerance of sound. In the
+same room, with the same people, at the same volume, if I am relaxing rather than
+working, it does not bother me at all. That asymmetry is the whole shape of the thing,
+and it is the part that made it feel like it could not be a "hearing" problem.
 
 ## What it got misattributed to
 
-_To fill._
+Hearing, first. I have had hearing testing done and my hearing came back completely
+normal. Which closed one door without opening another — a normal test result told me
+what it was not, and nothing about what it was.
 
-## What changed, and when
+Beyond that, I do not know whether it is a specific pathology of its own or simply part
+of the overall ADHD picture. That is the open question this notebook started with.
 
-_To fill._
+## What changed, when
+
+**August 2026** — first attempt at actually looking it up rather than living with it.
+See [`questions/260812-background-speech-and-focus.md`](../questions/260812-background-speech-and-focus.md)
+and the answer alongside it.
+
+## The comparison that made it click
+
+<!--
+FLAG: scope.md puts other people's sensory experiences out of scope unless they
+have said they are happy to be written about. This passage is not name-identified,
+but it is still someone else's experience. Confirm before this repo is publicised.
+-->
+
+I asked other people whether it bothers them, including my wife. What came back was not
+"yes, a bit less" — it was a different relationship to the sound entirely. She described
+being able to deliberately tune *in* and hear somebody speaking, as a thing she chooses
+to do. Whereas I cannot tune it *out*.
+
+That is a subtle difference and I think a vastly telling one. Same room, same sound,
+same physical input — and the difference is not sensitivity, it is which direction the
+control runs. For her the default is filtered and attending is the act. For me the
+default is unfiltered and there is no act available.
+
+If that generalises at all, it is a useful thing to be able to say out loud to
+neurotypical people, because "background noise bothers me" gets heard as "I am fussy
+about volume," which is not the claim.
 
 ## What I wish someone had told me earlier
 

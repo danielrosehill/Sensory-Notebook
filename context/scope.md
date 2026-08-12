@@ -33,8 +33,32 @@ Use these as tags on questions so the notebook can be sliced by modality later.
 
 <!-- The first questions worth asking. Replace as they get asked and answered. -->
 
-- [ ] Which sensory constructs are actually recognised diagnostically, and which are
+- [x] Which sensory constructs are actually recognised diagnostically, and which are
       clinical-community usage without formal standing?
-- [ ] What does the evidence say about the ADHD–sensory-sensitivity relationship
+      → Partly answered for the auditory ones, 2026-08-12. See
+      [`sources/spd-diagnostic-status.md`](../sources/spd-diagnostic-status.md) and
+      [`sources/decreased-sound-tolerance-terminology.md`](../sources/decreased-sound-tolerance-terminology.md).
+      Short version: SPD is in neither DSM-5-TR nor ICD; misophonia is in neither;
+      hyperacusis is in ICD-11 (AB7Y); sensory hyper/hyporeactivity has standing only
+      inside autism (DSM-5-TR B4), never inside ADHD. Still open for the non-auditory
+      modalities.
+- [x] What does the evidence say about the ADHD–sensory-sensitivity relationship
       specifically, as distinct from the autism literature that dominates the field?
+      → First pass 2026-08-12, auditory only:
+      [`answers/260812-background-speech-and-focus.md`](../answers/260812-background-speech-and-focus.md).
 - [ ] Does sensory tolerance change with stimulant medication, and in which direction?
+      → Still open. Lead: secondary sources claim methylphenidate normalises some sensory
+      hypersensitivities (noted in
+      [`sources/bijlenga-2017-sensory-profiles-adult-adhd.md`](../sources/bijlenga-2017-sensory-profiles-adult-adhd.md)),
+      unverified.
+
+Added 2026-08-12, from the first answer:
+
+- [ ] Does neural speech-tracking research show reduced attended-vs-ignored separation in
+      ADHD? Would test the "can't tune out" account directly.
+- [ ] Is there evidence separating interference-by-process from attentional capture in
+      ADHD specifically? Decides whether effort is a usable lever at all.
+- [ ] Early-sensory vs late-control: the sensory-gating findings and the load-theory
+      findings conflict. Has anything since 2014 adjudicated?
+- [ ] What is the measured STI at a typical open-plan desk, and what would it take to get
+      below the 0.21 threshold where performance decline begins?
