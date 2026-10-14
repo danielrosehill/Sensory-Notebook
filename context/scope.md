@@ -155,3 +155,16 @@ checked against it either way:
       olfactory parallel to intelligibility-rather-than-level on the auditory side, which is
       a strong enough parallel to be suspicious of. Also worth separating: unpleasant smell
       versus smell that signals something is wrong.
+
+Added 2026-10-14:
+
+- [x] **Is it misophonia, or something else?** → Answered 2026-10-14, `confidence: medium`:
+      [`answers/261014-characterising-my-sound-sensitivity.md`](../answers/261014-characterising-my-sound-sensitivity.md).
+      Probably a mix, one construct per trigger. Speech → irrelevant sound effect (ADHD).
+      Drilling → noise annoyance driven by unpredictability and loss of control, not
+      misophonia (Aazh 2022 would exclude environmental noise outright). Son's screaming →
+      a normatively aversive alarm signal (roughness, Arnal 2015) feeding the sensory-load
+      pattern; misophonia not ruled out. Hyperacusis is unlikely but unmeasured.
+- [ ] **Take the self-tests** in §10 of that answer (HQ, MisoQuest, DMQ trigger checklist,
+      NoiSeQ) and keep the two-week event log. The profile's open FLAG on where the baby
+      trigger belongs is now a set of concrete comparisons (§9), not a question to ask.
