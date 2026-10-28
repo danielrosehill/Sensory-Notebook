@@ -59,6 +59,11 @@ In roughly this order, during the same desperate search:
 2. **In-ear ANC earbuds.** <!-- FLAG: make and verdict both unrecorded. Ask. -->
 3. **Loop earplugs.** Worked, but superseded on comfort — separate entry:
    [`loop-earplugs.md`](loop-earplugs.md).
+<!-- FLAG (2026-10-28): Daniel says there are three custom pairs from two makers: Ear Protect
+made two hard acrylic pairs (one is the spare) and Haozen made one silicone pair. That conflicts
+with the "one audiologist, specified as equal attenuation, ~USD 100 for both" account here.
+He also finds the silicone pair attenuates too much for daytime. Reconcile with him before
+editing the text. -->
 4. **Custom moulded plugs from an audiologist**, taken from impressions of my own ears.
    Two pairs, deliberately in different materials:
    - **Silicone — soft.** For sleeping.
